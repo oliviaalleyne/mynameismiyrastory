@@ -1,0 +1,40 @@
+*{
+box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(252, 186, 216);
+    margin-top: 5em;
+
+    }
+
+    .centered {
+        position: fixed; /* or absolute */
+        top: 40%;
+        left: 40%;
+      }
+
+img {
+ 
+    border: 5px solid #000000;
+    width: 700px;
+    display: block;
+    margin: auto;
+}
+
+.next {
+text-align: center;
+}
+
+h1 {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  header {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
